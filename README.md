@@ -18,34 +18,10 @@ A abordagem será estruturada em etapas sequenciais, organizadas em um pipeline 
 - Análise exploratória: utilização de SQL, Python e PySpark para identificar padrões, tendências e fatores que influenciam o sucesso dos jogos.  
 
 🛠️ **Ferramentas Utilizadas**  
-Linguagem: Python, SQL  
-Bibliotecas: Pandas, NumPy, PySpark  
-Ambientes: Databricks e GitHub  
-Documentação: Markdown e Catálogo Databricks  
-
-📋 **Resultados Esperados**
-- Obter uma base de dados confiável e estruturada sobre jogos de tabuleiro.  
-- Facilitar a consulta e análise de informações por meio de queries SQL e processamento distribuído em PySpark.  
-- Identificar padrões de comportamento dos jogadores e tendências emergentes no mercado.  
-- Fornecer insights estratégicos para editoras, desenvolvedores e comunidades, apoiando decisões sobre design, marketing e lançamento de novos jogos.   
-- Identificar padrões de comportamento dos jogadores e tendências emergentes no mercado.  
-- Fornecer insights estratégicos para editoras, desenvolvedores e comunidades, apoiando decisões sobre design, marketing e lançamento de novos jogos.  
-Identificação de padrões de comportamento entre jogadores e jogos.  
-Segmentação de jogos por características e popularidade.  
-Análise de correlações entre mecânicas de jogo e níveis de popularidade.  
-Exploração de tendências no comportamento dos jogadores e na popularidade dos jogos.  
-Mapeamento de perfis de jogadores com base em preferências, estilos de jogo e avaliações.  
-
-4. **Conclusão**
-Este projeto demonstra como a engenharia de dados aplicada em ambientes de big data pode transformar informações dispersas em conhecimento estruturado.  
-A utilização de Databricks, Python, SQL e PySpark garante robustez e escalabilidade, permitindo análises aprofundadas sobre o universo dos jogos de tabuleiro.  
-Ao final, espera-se que os resultados obtidos contribuam para uma compreensão mais ampla da dinâmica desse segmento, revelando fatores de popularidade, padrões de interação e oportunidades de inovação.  
-
-🛠️ **Ferramentas Utilizadas**  
-Linguagem: Python, SQL  
-Bibliotecas: Pandas, NumPy, PySpark  
-Ambientes: Databricks e GitHub  
-Documentação: Markdown e Catálogo Databricks  
+- Linguagem: Python, SQL  
+- Bibliotecas: Pandas, NumPy, PySpark  
+- Ambientes: Databricks e GitHub  
+- Documentação: Markdown e Catálogo Databricks  
 
 📋 **Resultados Esperados**  
 - Obter uma base de dados confiável e estruturada sobre jogos de tabuleiro.  
@@ -55,4 +31,11 @@ Documentação: Markdown e Catálogo Databricks
 - Realizar a segmentação de jogos com base em características e níveis de popularidade.  
 - Analisar correlações entre mecânicas de jogo e indicadores de popularidade.  
 - Explorar tendências no comportamento dos jogadores e na evolução da popularidade dos jogos.  
-- Mapear perfis de jogadores considerando preferências, estilos de jogo e avaliações.  
+- Mapear perfis de jogadores considerando preferências, estilos de jogo e avaliações.
+
+- 4. **Conclusão**
+Este projeto demonstra como a engenharia de dados aplicada em ambientes de big data pode transformar informações dispersas em conhecimento estruturado.  
+A utilização de Databricks, Python, SQL e PySpark garante robustez e escalabilidade, permitindo análises aprofundadas sobre o universo dos jogos de tabuleiro.  
+Ao final, espera-se que os resultados obtidos contribuam para uma compreensão mais ampla da dinâmica desse segmento, revelando fatores de popularidade, padrões de interação e oportunidades de inovação.  
+
+
