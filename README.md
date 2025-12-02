@@ -1,7 +1,7 @@
 # mvp-engenharia-dados
 
-📊 MVP - Engenharia de dados
-🧩 Análise de dados no Databricks 
+📊 MVP - Engenharia de dados  
+🧩 Análise de dados no Databricks  
 Este projeto tem como objetivo xxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
