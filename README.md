@@ -1,14 +1,10 @@
 ### 📊 MVP - Engenharia de dados
 
-📊 **MVP - Engenharia de dados**  
+🧩 **Engenharia de Dados para Jogos de Tabuleiro**  
+Este projeto tem como objetivo aplicar os conceitos de engenharia de dados para analisar e estruturar um conjunto de informações relacionadas a jogos de tabuleiro. O desafio consiste em extrair insights significativos desse conjunto de dados, de modo a identificar tendências, fatores de popularidade, padrões de comportamento e relações entre jogos e jogadores dentro da comunidade.  
 
-🧩 **Engenharia de Dados para Jogos de Tabuleiro  **  
-Este projeto tem como objetivo aplicar os conceitos de engenharia de dados para estruturar e analisar um conjunto de informações relacionadas a jogos de tabuleiro. A iniciativa busca consolidar dados dispersos em uma base organizada, permitindo a extração de insights relevantes sobre avaliações de usuários, características dos jogos e indicadores de popularidade.  
-
-🧩 **Análise de dados no Databricks**   
-Este projeto tem como objetivo aplicar os conceitos de engenharia de dados para estruturar e analisar um conjunto de informações relacionadas a jogos de tabuleiro. A iniciativa busca consolidar dados dispersos em uma base organizada, permitindo a extração de insights relevantes sobre avaliações de usuários, características dos jogos e indicadores de popularidade.  
-
-A escolha pela plataforma Databricks se deve ao seu caráter de data lake em nuvem, que oferece escalabilidade, flexibilidade e integração com ferramentas como Python, SQL e PySpark, essenciais para o processamento e análise de grandes volumes de dados.
+A escolha pela plataforma Databricks se deve à sua característica de ser um Lakehouse, ou seja, combinar os conceitos de Data Warehouse e Data Lake em uma plataforma unificada de análise de dados e inteligência artificial baseada em nuvem. Essa arquitetura facilita o trabalho com big data e machine learning, oferecendo escalabilidade, flexibilidade e integração com ferramentas como Python, SQL e PySpark, essenciais para o processamento e análise de grandes volumes de dados.  
+O Databricks funciona como um ambiente colaborativo, integrando armazenamento, processamento e análise de dados em larga escala, o que possibilita tanto a exploração avançada quanto a geração de relatórios estratégicos para apoiar decisões relacionadas ao universo dos jogos de tabuleiro.  
 
 🎲 **Dataset**  
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro.
