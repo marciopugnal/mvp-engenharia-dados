@@ -5,11 +5,17 @@
 Este projeto tem como objetivo explorar, analisar e aplicar princípios de engenharia de dados em um dataset contendo informações sobre avaliações de jogos de tabuleiro. A execução seguirá etapas essenciais, tais como: ingestão de dados, limpeza e transformação dos dados, modelagem, armazenamento e organização, disponibilização e, por fim, análise e elaboração de relatórios.  
 O desafio central é converter dados dispersos em conhecimento estruturado e extrair resultados e insights significativos, capazes de revelar tendências, fatores de popularidade, padrões de comportamento e relações entre jogos e jogadores na comunidade.  
 
-🌐 **Análise de dados no Databricks**   
-A escolha pela plataforma Databricks se deve à sua característica de ser Lakehouse, ou seja, a combinação dos conceitos de Data Warehouse e Data Lake em uma solução unificada de análise de dados e inteligência artificial baseada em nuvem. Essa arquitetura facilita o trabalho com big data e machine learning, oferecendo escalabilidade, flexibilidade e integração com ferramentas como Python, SQL e PySpark, essenciais para o processamento e análise de grandes volumes de dados. Trata-se de um ambiente colaborativo que integra armazenamento, processamento e análise de dados em larga escala. Além disso, o Databricks disponibiliza a versão Free Edition, que permite acesso às funcionalidades básicas sem custo.  https://dbc-1557a35d-0172.cloud.databricks.com/editor/notebooks/2190604718459940?o=2470346591737309
-
 🎲 **Dataset**  
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro.
+
+**Modelagem**  
+
+**Catálogo de Dados**  
+
+🌐 **Análise de dados no Databricks**   
+A escolha pela plataforma Databricks se deve à sua característica de ser Lakehouse, ou seja, a combinação dos conceitos de Data Warehouse e Data Lake em uma solução unificada de análise de dados e inteligência artificial baseada em nuvem. Essa arquitetura facilita o trabalho com big data e machine learning, oferecendo escalabilidade, flexibilidade e integração com ferramentas como Python, SQL e PySpark, essenciais para o processamento e análise de grandes volumes de dados. Trata-se de um ambiente colaborativo que integra armazenamento, processamento e análise de dados em larga escala. Além disso, o Databricks disponibiliza a versão Free Edition, que permite acesso às funcionalidades básicas sem custo.  
+
+**Resultados**  
 
 🔄 **Metodologia**  
 A abordagem será organizada em etapas sequenciais, estruturadas em um pipeline de dados:  
