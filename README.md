@@ -10,6 +10,9 @@ O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.c
 
 **Modelagem**  
 
+<img width="1044" height="678" alt="Conceitual_Tabuleiro_Estrela" src="https://github.com/user-attachments/assets/925aee19-6701-4f50-aa93-4ce298d7f054" />
+
+
 **Catálogo de Dados**  
 
 🌐 **Análise de dados no Databricks**   
