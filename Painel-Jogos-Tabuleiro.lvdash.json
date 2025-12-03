@@ -940,12 +940,16 @@
                   "datasetName": "41d5ed50",
                   "fields": [
                     {
+                      "name": "mecanica_jogo",
+                      "expression": "`mecanica_jogo`"
+                    },
+                    {
                       "name": "sum(total_possuem)",
                       "expression": "SUM(`total_possuem`)"
                     },
                     {
-                      "name": "mecanica_jogo",
-                      "expression": "`mecanica_jogo`"
+                      "name": "sum(avg_avaliacao)",
+                      "expression": "SUM(`avg_avaliacao`)"
                     }
                   ],
                   "disaggregated": false
@@ -953,26 +957,55 @@
               }
             ],
             "spec": {
-              "version": 3,
-              "widgetType": "bar",
+              "version": 1,
+              "widgetType": "combo",
               "encodings": {
                 "x": {
-                  "fieldName": "sum(total_possuem)",
-                  "scale": {
-                    "type": "quantitative"
-                  }
-                },
-                "y": {
                   "fieldName": "mecanica_jogo",
                   "scale": {
-                    "type": "categorical",
-                    "sort": {
-                      "by": "x-reversed"
-                    }
+                    "type": "categorical"
                   }
                 },
                 "label": {
-                  "show": false
+                  "show": true
+                },
+                "y": {
+                  "primary": {
+                    "fields": [
+                      {
+                        "fieldName": "sum(total_possuem)"
+                      }
+                    ],
+                    "scale": {
+                      "type": "quantitative",
+                      "reverse": false,
+                      "domain": {
+                        "min": 0
+                      }
+                    },
+                    "format": {
+                      "type": "number-plain",
+                      "abbreviation": "compact",
+                      "decimalPlaces": {
+                        "type": "max",
+                        "places": 2
+                      }
+                    }
+                  },
+                  "secondary": {
+                    "fields": [
+                      {
+                        "fieldName": "sum(avg_avaliacao)"
+                      }
+                    ],
+                    "scale": {
+                      "type": "quantitative",
+                      "domain": {
+                        "min": 0,
+                        "max": 10
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -3160,7 +3193,7 @@
           },
           "position": {
             "x": 0,
-            "y": 40,
+            "y": 42,
             "width": 6,
             "height": 8
           }
@@ -3245,12 +3278,16 @@
                   "datasetName": "a65412b5",
                   "fields": [
                     {
-                      "name": "avg(avg_avaliacao)",
-                      "expression": "AVG(`avg_avaliacao`)"
-                    },
-                    {
                       "name": "dominio_jogo",
                       "expression": "`dominio_jogo`"
+                    },
+                    {
+                      "name": "sum(total_jogos)",
+                      "expression": "SUM(`total_jogos`)"
+                    },
+                    {
+                      "name": "avg(avg_avaliacao)",
+                      "expression": "AVG(`avg_avaliacao`)"
                     }
                   ],
                   "disaggregated": false
@@ -3258,27 +3295,61 @@
               }
             ],
             "spec": {
-              "version": 3,
-              "widgetType": "bar",
+              "version": 1,
+              "widgetType": "combo",
               "encodings": {
                 "x": {
-                  "fieldName": "avg(avg_avaliacao)",
-                  "scale": {
-                    "type": "quantitative"
-                  }
-                },
-                "y": {
                   "fieldName": "dominio_jogo",
                   "scale": {
-                    "type": "categorical",
-                    "sort": {
-                      "by": "x-reversed"
-                    }
+                    "type": "categorical"
                   }
                 },
                 "label": {
                   "show": true
+                },
+                "y": {
+                  "primary": {
+                    "fields": [
+                      {
+                        "fieldName": "sum(total_jogos)"
+                      }
+                    ],
+                    "scale": {
+                      "type": "quantitative",
+                      "reverse": false,
+                      "domain": {
+                        "min": 0,
+                        "max": 5000
+                      }
+                    },
+                    "format": {
+                      "type": "number-plain",
+                      "abbreviation": "none",
+                      "decimalPlaces": {
+                        "type": "all"
+                      },
+                      "hideGroupSeparator": true
+                    }
+                  },
+                  "secondary": {
+                    "fields": [
+                      {
+                        "fieldName": "avg(avg_avaliacao)"
+                      }
+                    ],
+                    "scale": {
+                      "type": "quantitative",
+                      "domain": {
+                        "min": 0,
+                        "max": 9
+                      }
+                    }
+                  }
                 }
+              },
+              "frame": {
+                "showDescription": false,
+                "showTitle": false
               }
             }
           },
@@ -3286,7 +3357,7 @@
             "x": 0,
             "y": 34,
             "width": 3,
-            "height": 6
+            "height": 8
           }
         },
         {
@@ -3299,12 +3370,16 @@
                   "datasetName": "41d5ed50",
                   "fields": [
                     {
-                      "name": "avg(avg_avaliacao)",
-                      "expression": "AVG(`avg_avaliacao`)"
-                    },
-                    {
                       "name": "mecanica_jogo",
                       "expression": "`mecanica_jogo`"
+                    },
+                    {
+                      "name": "sum(total_jogos)",
+                      "expression": "SUM(`total_jogos`)"
+                    },
+                    {
+                      "name": "avg(avg_avaliacao)",
+                      "expression": "AVG(`avg_avaliacao`)"
                     }
                   ],
                   "disaggregated": false
@@ -3312,26 +3387,47 @@
               }
             ],
             "spec": {
-              "version": 3,
-              "widgetType": "bar",
+              "version": 1,
+              "widgetType": "combo",
               "encodings": {
                 "x": {
-                  "fieldName": "avg(avg_avaliacao)",
-                  "scale": {
-                    "type": "quantitative"
-                  }
-                },
-                "y": {
                   "fieldName": "mecanica_jogo",
                   "scale": {
-                    "type": "categorical",
-                    "sort": {
-                      "by": "x-reversed"
-                    }
+                    "type": "categorical"
                   }
                 },
                 "label": {
                   "show": true
+                },
+                "y": {
+                  "primary": {
+                    "fields": [
+                      {
+                        "fieldName": "sum(total_jogos)"
+                      }
+                    ],
+                    "scale": {
+                      "type": "quantitative",
+                      "domain": {
+                        "min": 0,
+                        "max": 5000
+                      }
+                    }
+                  },
+                  "secondary": {
+                    "fields": [
+                      {
+                        "fieldName": "avg(avg_avaliacao)"
+                      }
+                    ],
+                    "scale": {
+                      "type": "quantitative",
+                      "domain": {
+                        "min": 0,
+                        "max": 9
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -3340,7 +3436,7 @@
             "x": 3,
             "y": 34,
             "width": 3,
-            "height": 6
+            "height": 8
           }
         }
       ],

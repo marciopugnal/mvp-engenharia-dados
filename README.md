@@ -1,6 +1,6 @@
 ### 📊 MVP - Engenharia de dados
 
-🧩 **Engenharia de Dados para Jogos de Tabuleiro**  
+🧩 **Engenharia de Dados para Jogos de Tabuleiro**
 
 Este projeto tem como objetivo aplicar os conceitos de engenharia de dados para analisar e estruturar um conjunto de informações relacionadas a jogos de tabuleiro. A abordagem será conduzida por meio de etapas fundamentais, incluindo modelagem de dados, limpeza e transformação, organização e integração e, por fim, análise e elaboração de relatórios.  
 O desafio central consiste em transformar dados dispersos em conhecimento estruturado, capaz de revelar tendências, fatores de popularidade, padrões de comportamento e relações entre jogos e jogadores dentro da comunidade.   
@@ -43,5 +43,3 @@ A utilização de Databricks, Python, SQL e PySpark possibilitaram a realizaçã
 Os resultados demonstram que popularidade não garante qualidade: jogos mais jogados não são necessariamente os mais bem avaliados. Além disso, verificou-se que complexidade e duração estão diretamente associadas a notas mais altas, enquanto jogos curtos (≤30 minutos), embora abundantes, tendem a ser menos valorizados.  
 Observa-se também a existência de lacunas para determinados públicos, como adultos e grupos grandes, que dispõem de menor oferta de títulos e apresentam níveis mais baixos de satisfação. Já as categorias e mecânicas revelam fidelidade de nichos específicos, mas não asseguram avaliações elevadas de forma consistente.  
 Em síntese, os achados reforçam que fatores como complexidade, duração e público-alvo exercem influência significativa na percepção de qualidade dos jogos de tabuleiro, oferecendo subsídios para decisões estratégicas de editoras, desenvolvedores e comunidades.  
-
-
