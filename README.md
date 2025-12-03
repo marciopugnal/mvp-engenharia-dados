@@ -26,12 +26,11 @@ A abordagem será organizada em etapas sequenciais, estruturadas em um pipeline 
 - Documentação: Markdown e Catálogo do Databricks  
 
 📋 **Resultados Esperados**  
-- Identificar padrões de comportamento e relações entre jogos e jogadores na comunidade.  
-- Extrair resultados e insights significativos, através de caracteristicas ocultas.  
-- Realizar a segmentação de jogos com base em características e níveis de popularidade.  
-- Analisar correlações entre mecânicas de jogo e indicadores de popularidade.  
-- Explorar tendências no comportamento dos jogadores e na evolução da popularidade dos jogos.  
-- Mapear perfis de jogadores considerando preferências, estilos de jogo e avaliações.
+- Identificação de padrões de comportamento entre jogadores e jogos.  
+- Segmentação de jogos por características e popularidade.  
+- Análise de correlações entre mecânicas de jogo e níveis de popularidade.  
+- Exploração de tendências no comportamento dos jogadores e na popularidade dos jogos.  
+- Mapeamento de perfis de jogadores com base em preferências, estilos de jogo e avaliações.  
 
 🌟 **Conclusão**  
 Este projeto evidencia a aplicação da engenharia de dados em ambientes de análise para transformar informações dispersas em conhecimento estruturado.  
