@@ -33,7 +33,7 @@ A abordagem será estruturada em etapas sequenciais, organizadas em um pipeline 
 - Explorar tendências no comportamento dos jogadores e na evolução da popularidade dos jogos.  
 - Mapear perfis de jogadores considerando preferências, estilos de jogo e avaliações.
 
-- 4. **Conclusão**
+🌟 **Conclusão**  
 Este projeto demonstra como a engenharia de dados aplicada em ambientes de big data pode transformar informações dispersas em conhecimento estruturado.  
 A utilização de Databricks, Python, SQL e PySpark garante robustez e escalabilidade, permitindo análises aprofundadas sobre o universo dos jogos de tabuleiro.  
 Ao final, espera-se que os resultados obtidos contribuam para uma compreensão mais ampla da dinâmica desse segmento, revelando fatores de popularidade, padrões de interação e oportunidades de inovação.  
