@@ -54,10 +54,8 @@ A abordagem será organizada em etapas sequenciais, estruturadas em um pipeline 
 - Mapeamento de perfis de jogadores com base em preferências, estilos de jogo e avaliações.  
 
 **Autoavaliação**  
-O trabalho permitiu aplicar de forma prática o conhecimento teórico abordados nas aulas, com isso permitiu consolidar o conhecimento de engenharia de dados na área de ciência de dados. O conhecimento em SQL adquirido ao longo do curso, me permitiu realizar consultas, manipulação e análise de dados. Essas habilidades foram úteis para extrair informações relevantes do conjunto de dados, realizar filtragens, agregações e cálculos. No entanto, não possuia conhecimento prévio em Databricks, uma das ferramentas utilizadas nesse trabalho. Tal fato representou um desafio inicial, bem com a utilização do Spark, sendo necessário consultar documentações, tutoriais e vídeos da internet.  
-
-Os desafios inicias foram a familiarização com o ambiente do Databricks e suas interfaces;  
-Integração com o GitHub, compreensão do funcionamento de Spark SQL e PySpark;  
+O trabalho permitiu aplicar de forma prática os conhecimentos teóricos abordados nas aulas, contribuindo para a consolidação dos fundamentos de engenharia de dados no contexto da ciência de dados. O conhecimento em SQL adquirido ao longo do curso possibilitou a realização de consultas, manipulação e análise de dados. Essas habilidades foram essenciais para extrair informações relevantes do conjunto de dados, além de permitir a execução de filtragens, agregações e cálculos.  
+No entanto, eu não possuía conhecimento prévio em Databricks, uma das ferramentas utilizadas no desenvolvimento do trabalho. Esse fato representou um desafio inicial, assim como o uso do Spark, tornando necessário consultar documentações, tutoriais e vídeos disponíveis na internet. Além disso, os desafios iniciais incluíram a familiarização com o ambiente do Databricks e suas interfaces, a integração com o GitHub e a compreensão do funcionamento do Spark SQL e do PySpark.  
 
 🌟 **Conclusão**  
 Este projeto evidencia a aplicação da engenharia de dados em ambientes de análise para transformar informações dispersas em conhecimento estruturado.  
