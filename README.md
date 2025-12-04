@@ -1,7 +1,7 @@
 ### 📊 MVP - Engenharia de dados
 
-🧩 **Engenharia de Dados para análise de Jogos de Tabuleiro**
-**Objetivo:**
+🧩 **Engenharia de Dados para análise de Jogos de Tabuleiro**  
+**Objetivo:**  
 Este projeto tem como objetivo explorar, analisar e aplicar princípios de engenharia de dados em um dataset contendo informações sobre avaliações de jogos de tabuleiro. A execução seguirá etapas essenciais, tais como: ingestão de dados, limpeza e transformação dos dados, modelagem, armazenamento e organização, disponibilização e, por fim, análise e elaboração de relatórios.  
 O desafio central é converter dados dispersos em conhecimento estruturado e extrair resultados e insights significativos, capazes de revelar tendências, fatores de popularidade, padrões de comportamento e relações entre jogos e jogadores na comunidade.  
 
