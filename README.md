@@ -1,4 +1,4 @@
-<img width="660" height="441" alt="Conceitual_Tabuleiro_Estrela3" src="https://github.com/user-attachments/assets/d2eb5236-9e28-46de-a3cb-bf63328bf167" />### 📊 MVP - Engenharia de dados
+### 📊 MVP - Engenharia de dados
 
 🧩 **Engenharia de Dados para análise de Jogos de Tabuleiro**
 
