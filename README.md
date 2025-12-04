@@ -10,9 +10,7 @@ O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.c
 
 **Modelagem**  
 Modelagem estrela com tabelas com fato e dimensões.  
-<img width="660" height="441" alt="Conceitual_Tabuleiro_Estrela3" src="https://github.com/user-attachments/assets/f9dbe4b9-3514-4006-86fb-8cc2045a9bb5" /> <img width="756" height="488" alt="Lógico_Tabuleiro_Estrela3" src="https://github.com/user-attachments/assets/aefe95b7-dcf1-4644-a00f-48c2cc09260f" />
-
-
+<img width="660" height="441" alt="Conceitual_Tabuleiro_Estrela3" src="https://github.com/user-attachments/assets/f9dbe4b9-3514-4006-86fb-8cc2045a9bb5" /><img width="756" height="488" alt="Lógico_Tabuleiro_Estrela3" src="https://github.com/user-attachments/assets/aefe95b7-dcf1-4644-a00f-48c2cc09260f" />
 
 **Catálogo de Dados**  
 
