@@ -1,6 +1,6 @@
 ### 📊 MVP - Engenharia de dados
 
-🧩 **Engenharia de Dados para Jogos de Tabuleiro**
+🧩 **Engenharia de Dados para análise de Jogos de Tabuleiro**
 
 Este projeto tem como objetivo explorar, analisar e aplicar princípios de engenharia de dados em um dataset contendo informações sobre avaliações de jogos de tabuleiro. A execução seguirá etapas essenciais, tais como: ingestão de dados, limpeza e transformação dos dados, modelagem, armazenamento e organização, disponibilização e, por fim, análise e elaboração de relatórios.  
 O desafio central é converter dados dispersos em conhecimento estruturado e extrair resultados e insights significativos, capazes de revelar tendências, fatores de popularidade, padrões de comportamento e relações entre jogos e jogadores na comunidade.  
@@ -9,9 +9,8 @@ O desafio central é converter dados dispersos em conhecimento estruturado e ext
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro.
 
 **Modelagem**  
-Modelagem estrela com tabelas fatos e dimensões
-<img width="456" height="302" alt="Conceitual_Tabuleiro_Estrela2" src="https://github.com/user-attachments/assets/626dfc51-846e-4b76-a670-e190f81054b9" />
-
+Modelagem estrela com tabelas com fato e dimensões.
+<img width="456" height="302" alt="Conceitual_Tabuleiro_Estrela2" src="https://github.com/user-attachments/assets/626dfc51-846e-4b76-a670-e190f81054b9" />  
 
 **Catálogo de Dados**  
 
@@ -19,6 +18,14 @@ Modelagem estrela com tabelas fatos e dimensões
 A escolha pela plataforma Databricks se deve à sua característica de ser Lakehouse, ou seja, a combinação dos conceitos de Data Warehouse e Data Lake em uma solução unificada de análise de dados e inteligência artificial baseada em nuvem. Essa arquitetura facilita o trabalho com big data e machine learning, oferecendo escalabilidade, flexibilidade e integração com ferramentas como Python, SQL e PySpark, essenciais para o processamento e análise de grandes volumes de dados. Trata-se de um ambiente colaborativo que integra armazenamento, processamento e análise de dados em larga escala. Além disso, o Databricks disponibiliza a versão Free Edition, que permite acesso às funcionalidades básicas sem custo.  
 
 **Resultados**  
+01. Quais são os jogos (top 10) de tabuleiro mais bem avaliados e sua relação com a popularidade?
+02. Como o nível de complexidade dos jogos influencia a avaliação média dos jogos?
+03. Quais as mecânicas de jogos que estão associadas às maiores avaliações e popularidade?
+04. Qual a correlação entre a complexidade dos jogos e o tempo médio de uma partida?
+05. Como a faixa etária recomendada pelo jogo influencia a avaliação dos jogos?
+06. Quais categorias (dominios) temáticas tem maior popularidade e mantêm alta avaliação?
+07. Qual a relação entre tempo de jogo e satisfação dos jogadores?
+08. Qual é o perfil dos jogos (quantidade, avaliação e tempo) por faixa de jogadores?
 
 🔄 **Metodologia**  
 A abordagem será organizada em etapas sequenciais, estruturadas em um pipeline de dados:  
@@ -31,9 +38,9 @@ A abordagem será organizada em etapas sequenciais, estruturadas em um pipeline 
 🛠️ **Ferramentas Utilizadas**  
 - Linguagens: Python e SQL  
 - Bibliotecas: Pandas, NumPy e PySpark  
-- Ambientes: Databricks e GitHub  
+- Ambientes: Databricks, GitHub e brModelo  
 - Documentação: Markdown e Catálogo do Databricks  
-
+ 
 📋 **Resultados Esperados**  
 - Identificação de padrões de comportamento entre jogadores e jogos.  
 - Segmentação de jogos por características e popularidade.  
