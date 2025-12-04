@@ -9,8 +9,8 @@ O desafio central é converter dados dispersos em conhecimento estruturado e ext
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro.
 
 **Modelagem**  
-Modelagem estrela com tabelas com fato e dimensões.
-<img width="456" height="302" alt="Conceitual_Tabuleiro_Estrela2" src="https://github.com/user-attachments/assets/626dfc51-846e-4b76-a670-e190f81054b9" />   <img width="432" height="276" alt="Lógico_Tabuleiro_Estrela2" src="https://github.com/user-attachments/assets/ff5a3ba4-9492-4979-a484-69501d3fb9a5" />
+Modelagem estrela com tabelas com fato e dimensões.  
+<img width="456" height="302" alt="Conceitual_Tabuleiro_Estrela2" src="https://github.com/user-attachments/assets/626dfc51-846e-4b76-a670-e190f81054b9" /> <img width="432" height="276" alt="Lógico_Tabuleiro_Estrela2" src="https://github.com/user-attachments/assets/ff5a3ba4-9492-4979-a484-69501d3fb9a5" />
 
 
 **Catálogo de Dados**  
