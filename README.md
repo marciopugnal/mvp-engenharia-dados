@@ -1,7 +1,7 @@
-### 📊**MVP – Engenharia de Dados para Jogos de Tabuleiro**  
+## 📊**MVP – Engenharia de Dados para Jogos de Tabuleiro**  
 Este projeto aplica conceitos de engenharia de dados para explorar e analisar um dataset de avaliações de jogos de tabuleiro. O objetivo é transformar dados brutos em insights estruturados sobre popularidade, complexidade, mecânicas, categorias e comportamento dos jogadores.
 
-📁 **Dataset**  
+### 📁 **Dataset**  
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro, contendo informações detalhadas sobre jogos, avaliações, mecânicas, categorias e perfis de jogadores.  
 
 ☁️ **Plataforma**  
@@ -15,7 +15,7 @@ O estudo busca responder questões, tais como:
 . Correlação entre complexidade, tempo de jogo e satisfação; e  
 . Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
-📌 **Nota**: As respostas estão consolidadas, evidenciadas e registradas nos arquivos **Query-Tabuleiro.ipynb**, **Painel‑Jogos‑Tabuleiro 2025-12-05 01_56.pdf** e **Notebook‑MVP‑Eng‑Dados‑Tabuleiro.ipynb**, todos armazenados no GitHub.  
+📌 **Nota**: As respostas estão consolidadas, evidenciadas e registradas nos arquivos **xxxxx**, **Query-Tabuleiro.ipynb**, **Painel‑Jogos‑Tabuleiro 2025-12-05 01_56.pdf** e **Notebook‑MVP‑Eng‑Dados‑Tabuleiro.ipynb**, todos armazenados no GitHub.  
 
 🔧 **Metodologia**  
 Pipeline de engenharia de dados composto por:  
