@@ -1,13 +1,13 @@
-📊 ####**MVP – Engenharia de Dados para Jogos de Tabuleiro**  
+### 📊**MVP – Engenharia de Dados para Jogos de Tabuleiro**  
 Este projeto aplica conceitos de engenharia de dados para explorar e analisar um dataset de avaliações de jogos de tabuleiro. O objetivo é transformar dados brutos em insights estruturados sobre popularidade, complexidade, mecânicas, categorias e comportamento dos jogadores.
 
-📁 **Dataset**  
+#### 📁 **Dataset**  
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro, contendo informações detalhadas sobre jogos, avaliações, mecânicas, categorias e perfis de jogadores.  
 
-☁️ **Plataforma**  
+#### ☁️ **Plataforma**  
 O projeto utiliza Databricks (Free Edition) como ambiente Lakehouse (Data Warehouse e Data Lake), integrando armazenamento, processamento e análise com Python, SQL e PySpark.  
 
-❓ **Perguntas de Análise**  
+####❓ **Perguntas de Análise**  
 O estudo busca responder questões, tais como:  
 - Top 10 jogos mais bem avaliados e sua relação com popularidade;  
 - Influência da complexidade nas avaliações;  
@@ -15,7 +15,9 @@ O estudo busca responder questões, tais como:
 - Correlação entre complexidade, tempo de jogo e satisfação; e  
 - Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
-🔧 **Metodologia**  
+📌 **Nota**: As respostas estão consolidadas, evidenciadas e registradas nos arquivos **Query-Tabuleiro.ipynb**, **Painel‑Jogos‑Tabuleiro 2025-12-05 01_56.pdf** e **Notebook‑MVP‑Eng‑Dados‑Tabuleiro.ipynb**, todos armazenados no GitHub.  
+
+####🔧 **Metodologia**  
 Pipeline de engenharia de dados composto por:  
 - Ingestão de dados via GitHub  
 - Transformação (limpeza, padronização e enriquecimento)  
@@ -23,19 +25,19 @@ Pipeline de engenharia de dados composto por:
 - Armazenamento em data lake no Databricks 
 - Análise exploratória com SQL, Python e PySpark 
 
-🛠️ **Ferramentas**  
+#### 🛠️ **Ferramentas**  
 - Linguagens: Python, SQL  
 - Bibliotecas: Pandas, NumPy, PySpark  
 - Ambientes: Databricks, GitHub, brModelo  
 - Documentação: Markdown e Catálogo Databricks  
 
-✅ **Resultados Esperados**  
+#### 📝 **Resultados Esperados**  
 - Identificação de padrões entre jogos e jogadores;  
 - Segmentação por características e popularidade;  
 - Correlações entre mecânicas, categorias e avaliações;  
 - Tendências de comportamento da comunidade;  
 - Perfis de jogadores baseados em preferências e avaliações;  
   
-📝 **Autoavaliação**  
+#### ✅ **Autoavaliação**  
 O projeto consolidou conhecimentos de engenharia de dados e SQL, permitindo análises complexas e manipulação eficiente dos dados.  
 O uso do Databricks e Spark representou um desafio inicial, superado com estudo e prática, ampliando a compreensão sobre ambientes distribuídos e processamento em larga escala.
