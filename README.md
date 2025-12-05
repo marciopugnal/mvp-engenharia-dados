@@ -1,5 +1,5 @@
 ## 📊**MVP – Engenharia de Dados para Jogos de Tabuleiro**  
-Este projeto aplica conceitos de engenharia de dados para transformar e explorar um dataset de avaliações de jogos de tabuleiro em informações estruturadas. O trabalho envolve etapas de ingestão, limpeza, transformação, modelagem, armazenamento e análise dos dados. O objetivo é extrair insights relevantes que revelem tendências, fatores de popularidade, padrões de comportamento e relações entre jogos e jogadores na comunidade.  
+Este projeto aplica conceitos de engenharia de dados para transformar e explorar um dataset de avaliações de jogos de tabuleiro em informações estruturadas. O trabalho envolve etapas de ingestão, limpeza, transformação, modelagem, armazenamento e análise dos dados. O objetivo é descobrir relações e comportamentos ocultos, gerando insights que revelem tendências, fatores de popularidade, padrões de comportamento e conexões entre jogos e jogadores na comunidade.  
 
 ### 🎲 **Dataset**  
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro, contendo informações detalhadas sobre jogos, avaliações, mecânicas, categorias e perfis de jogadores.  
