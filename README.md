@@ -17,9 +17,9 @@ O estudo busca responder questões, tais como:
 
 📌 **Nota:**  
 _As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_
-- **Query-Tabuleiro.ipynb**  
-- **Painel‑Jogos‑Tabuleiro 2025-12-05 01_56.pdf**  
-- **Notebook‑MVP‑Eng‑Dados‑Tabuleiro.ipynb**  
+- **Query-Tabuleiro**  
+- **Painel‑Jogos‑Tabuleiro**  
+- **Notebook‑MVP‑Eng‑Dados‑Tabuleiro** -->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb
 
 ### 🔧 **Metodologia**  
 Pipeline de engenharia de dados composto por:  
