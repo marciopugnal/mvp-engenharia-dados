@@ -2,13 +2,13 @@
 Este projeto aplica conceitos de engenharia de dados para explorar e analisar um dataset de avaliações de jogos de tabuleiro. O objetivo é transformar dados brutos em insights estruturados sobre popularidade, complexidade, mecânicas, categorias e comportamento dos jogadores.
 
 📁 **Dataset**  
-Os dados foram obtidos no Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] - BoardGameGeek Dataset , contendo informações detalhadas sobre jogos, avaliações, mecânicas, categorias e perfis de jogadores.  
+O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro, contendo informações detalhadas sobre jogos, avaliações, mecânicas, categorias e perfis de jogadores.  
 
-☁️ **Plataforma**
-O projeto utiliza Databricks (Free Edition) como ambiente Lakehouse, integrando armazenamento, processamento e análise com Python, SQL e PySpark.
+☁️ **Plataforma**  
+O projeto utiliza Databricks (Free Edition) como ambiente Lakehouse (Data Warehouse e Data Lake), integrando armazenamento, processamento e análise com Python, SQL e PySpark.  
 
-❓ Perguntas de Análise
-O estudo busca responder questões como:
+❓ **Perguntas de Análise**
+O estudo busca responder questões como:  
 • 	Top 10 jogos mais bem avaliados e sua relação com popularidade
 • 	Influência da complexidade nas avaliações
 • 	Mecânicas e categorias mais associadas a alta popularidade
