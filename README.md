@@ -15,7 +15,11 @@ O estudo busca responder questões, tais como:
 . Correlação entre complexidade, tempo de jogo e satisfação; e  
 . Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
-📌 **Nota**: As respostas estão consolidadas, evidenciadas e registradas nos arquivos **xxxxx**, **Query-Tabuleiro.ipynb**, **Painel‑Jogos‑Tabuleiro 2025-12-05 01_56.pdf** e **Notebook‑MVP‑Eng‑Dados‑Tabuleiro.ipynb**, todos armazenados no GitHub.  
+📌 **Nota:**  
+_As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_
+- **Query-Tabuleiro.ipynb**  
+- **Painel‑Jogos‑Tabuleiro 2025-12-05 01_56.pdf**  
+- **Notebook‑MVP‑Eng‑Dados‑Tabuleiro.ipynb**  
 
 ### 🔧 **Metodologia**  
 Pipeline de engenharia de dados composto por:  
