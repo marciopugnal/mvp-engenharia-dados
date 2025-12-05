@@ -27,8 +27,8 @@ Pipeline de engenharia de dados composto por:
 ▶ Ingestão de dados via GitHub  
 ▶ Transformação (limpeza, padronização e enriquecimento)  
 ▶ Modelagem em esquema estrela  
-▶ Armazenamento em data lake no Databricks 
-▶ Análise exploratória com SQL, Python e PySpark 
+▶ Armazenamento em data lake no Databricks  
+▶ Análise exploratória com SQL, Python e PySpark  
 
 ### 🛠️ **Ferramentas**  
 ▶ Linguagens: Python, SQL  
