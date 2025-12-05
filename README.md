@@ -8,7 +8,7 @@ O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.c
 O projeto utiliza o Databricks (Free Edition) como plataforma Lakehouse, integrando camadas de Data Lake e Data Warehouse em uma arquitetura unificada. Esse ambiente permite orquestrar pipelines de ingestão, processamento distribuído e consultas analíticas utilizando Python, SQL e PySpark, garantindo escalabilidade, paralelismo e governança dos dados.  
 
 ### ❓ **Questões analíticas a serem respondidas**  
-O estudo busca responder questões, tais como:  
+Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a responder questões como:  
 ▶ Top 10 jogos mais bem avaliados e sua relação com popularidade;  
 ▶ Influência da complexidade nas avaliações;  
 ▶ Mecânicas e categorias mais associadas a alta popularidade;  
