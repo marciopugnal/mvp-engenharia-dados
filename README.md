@@ -44,4 +44,5 @@ Pipeline de engenharia de dados estruturado pelas seguintes etapas:
   
 ### ✅ **Autoavaliação**  
 O desenvolvimento deste trabalho possibilitou aplicar, na prática, os conhecimentos teóricos das disciplinas, consolidando o entendimento dos conceitos de engenharia de dados dentro do contexto da ciência de dados. A experiência com bancos de dados e SQL foi essencial para modelar estruturas, executar consultas e gerar insights por meio de filtragens, agregações e cálculos analíticos.  
-No início, surgiram desafios relacionados ao uso do Databricks, à curva de aprendizado do PySpark e à necessidade de consultar documentações, ferramentas de IA, tutoriais e vídeos. Também houve dificuldades na integração com o GitHub e na compreensão dos recursos do Spark SQL, exigindo experimentação e estudo contínuo.
+No início, surgiram desafios relacionados ao uso do Databricks, à curva de aprendizado do PySpark e à necessidade de consultar documentações, ferramentas de IA, tutoriais e vídeos. Também houve dificuldades na integração com o GitHub e na compreensão dos recursos do Spark SQL, exigindo experimentação e estudo contínuo.  
+Para trabalhos futuros, recomenda-se o aprofundamento das análises, a incorporação de novos conjuntos de dados e a implementação de técnicas de machine learning, de modo a possibilitar investigações mais robustas e metodologicamente avançadas.
