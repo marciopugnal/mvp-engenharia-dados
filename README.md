@@ -31,17 +31,17 @@ Pipeline de engenharia de dados composto por:
 ▶ Análise exploratória com SQL, Python e PySpark 
 
 ### 🛠️ **Ferramentas**  
-. Linguagens: Python, SQL  
-. Bibliotecas: Pandas, NumPy, PySpark  
-. Ambientes: Databricks, GitHub, brModelo  
-. Documentação: Markdown e Catálogo Databricks  
+▶ Linguagens: Python, SQL  
+▶ Bibliotecas: Pandas, NumPy, PySpark  
+▶ Ambientes: Databricks, GitHub, brModelo  
+▶ Documentação: Markdown e Catálogo Databricks  
 
 ### 📝 **Resultados Esperados**  
-. Identificação de padrões entre jogos e jogadores;  
-. Segmentação por características e popularidade;  
-. Correlações entre mecânicas, categorias e avaliações;  
-. Tendências de comportamento da comunidade;  
-. Perfis de jogadores baseados em preferências e avaliações;  
+▶ Identificação de padrões entre jogos e jogadores;  
+▶ Segmentação por características e popularidade;  
+▶ Correlações entre mecânicas, categorias e avaliações;  
+▶ Tendências de comportamento da comunidade;  
+▶ Perfis de jogadores baseados em preferências e avaliações;  
   
 ### ✅ **Autoavaliação**  
 O projeto consolidou conhecimentos de engenharia de dados e SQL, permitindo análises complexas e manipulação eficiente dos dados.  
