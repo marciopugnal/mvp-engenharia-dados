@@ -16,7 +16,7 @@ O estudo busca responder questões, tais como:
 ▶ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
 📌 **Nota:**  
-_As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_
+_As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_  
 ▶ **Relatorio-Final** -->  
 ▶ **Query-Tabuleiro** -->   
 ▶ **Painel‑Jogos‑Tabuleiro** -->   
