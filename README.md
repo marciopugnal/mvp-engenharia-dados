@@ -8,26 +8,26 @@ O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.c
 O projeto utiliza Databricks (Free Edition) como ambiente Lakehouse (Data Warehouse e Data Lake), integrando armazenamento, processamento e análise com Python, SQL e PySpark.  
 
 ❓ **Perguntas de Análise**  
-O estudo busca responder questões como:  
-- Top 10 jogos mais bem avaliados e sua relação com popularidade  
-- Influência da complexidade nas avaliações  
-- Mecânicas e categorias mais associadas a alta popularidade  
-- Correlação entre complexidade, tempo de jogo e satisfação  
-- Perfil dos jogos por número de jogadores e faixa etária recomendada  
+O estudo busca responder questões, tais como:  
+- Top 10 jogos mais bem avaliados e sua relação com popularidade;  
+- Influência da complexidade nas avaliações;  
+- Mecânicas e categorias mais associadas a alta popularidade;  
+- Correlação entre complexidade, tempo de jogo e satisfação; e  
+- Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
 🔧 **Metodologia**  
-Pipeline de engenharia de dados composto por:
-- Ingestão de dados via GitHub
-- Transformação (limpeza, padronização e enriquecimento)
-- Modelagem em esquema estrela
-- Armazenamento em data lake no Databricks
-- Análise exploratória com SQL, Python e PySpark
+Pipeline de engenharia de dados composto por:  
+- Ingestão de dados via GitHub  
+- Transformação (limpeza, padronização e enriquecimento)  
+- Modelagem em esquema estrela  
+- Armazenamento em data lake no Databricks 
+- Análise exploratória com SQL, Python e PySpark 
 
-🛠️ **Ferramentas**
-- Linguagens: Python, SQL
-- Bibliotecas: Pandas, NumPy, PySpark
-- Ambientes: Databricks, GitHub, brModelo
-- Documentação: Markdown e Catálogo Databricks
+🛠️ **Ferramentas**  
+- Linguagens: Python, SQL  
+- Bibliotecas: Pandas, NumPy, PySpark  
+- Ambientes: Databricks, GitHub, brModelo  
+- Documentação: Markdown e Catálogo Databricks  
   
 ✅ **Resultados Esperados**  
 - Identificação de padrões entre jogos e jogadores  
