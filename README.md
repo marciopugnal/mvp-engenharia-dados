@@ -9,25 +9,26 @@ O projeto utiliza Databricks (Free Edition) como ambiente Lakehouse (Data Wareho
 
 ### ❓ **Perguntas de Análise**  
 O estudo busca responder questões, tais como:  
-. Top 10 jogos mais bem avaliados e sua relação com popularidade;  
-. Influência da complexidade nas avaliações;  
-. Mecânicas e categorias mais associadas a alta popularidade;  
-. Correlação entre complexidade, tempo de jogo e satisfação; e  
-. Perfil dos jogos por número de jogadores e faixa etária recomendada.  
+▶ Top 10 jogos mais bem avaliados e sua relação com popularidade;  
+▶ Influência da complexidade nas avaliações;  
+▶ Mecânicas e categorias mais associadas a alta popularidade;  
+▶ Correlação entre complexidade, tempo de jogo e satisfação; e  
+▶ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
 📌 **Nota:**  
 _As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_
-- **Query-Tabuleiro**  
-- **Painel‑Jogos‑Tabuleiro**  
-- **Notebook‑MVP‑Eng‑Dados‑Tabuleiro** -->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb
+▶ **Relatorio-Final** -->  
+▶ **Query-Tabuleiro** -->   
+▶ **Painel‑Jogos‑Tabuleiro** -->   
+▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro** -->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb  
 
 ### 🔧 **Metodologia**  
 Pipeline de engenharia de dados composto por:  
-. Ingestão de dados via GitHub  
-. Transformação (limpeza, padronização e enriquecimento)  
-. Modelagem em esquema estrela  
-. Armazenamento em data lake no Databricks 
-. Análise exploratória com SQL, Python e PySpark 
+▶ Ingestão de dados via GitHub  
+▶ Transformação (limpeza, padronização e enriquecimento)  
+▶ Modelagem em esquema estrela  
+▶ Armazenamento em data lake no Databricks 
+▶ Análise exploratória com SQL, Python e PySpark 
 
 ### 🛠️ **Ferramentas**  
 . Linguagens: Python, SQL  
