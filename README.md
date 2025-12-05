@@ -9,34 +9,34 @@ O projeto utiliza Databricks (Free Edition) como ambiente Lakehouse (Data Wareho
 
 ❓ **Perguntas de Análise**  
 O estudo busca responder questões, tais como:  
-- Top 10 jogos mais bem avaliados e sua relação com popularidade;  
-- Influência da complexidade nas avaliações;  
-- Mecânicas e categorias mais associadas a alta popularidade;  
-- Correlação entre complexidade, tempo de jogo e satisfação; e  
-- Perfil dos jogos por número de jogadores e faixa etária recomendada.  
+. Top 10 jogos mais bem avaliados e sua relação com popularidade;  
+. Influência da complexidade nas avaliações;  
+. Mecânicas e categorias mais associadas a alta popularidade;  
+. Correlação entre complexidade, tempo de jogo e satisfação; e  
+. Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
 📌 **Nota**: As respostas estão consolidadas, evidenciadas e registradas nos arquivos **Query-Tabuleiro.ipynb**, **Painel‑Jogos‑Tabuleiro 2025-12-05 01_56.pdf** e **Notebook‑MVP‑Eng‑Dados‑Tabuleiro.ipynb**, todos armazenados no GitHub.  
 
 🔧 **Metodologia**  
 Pipeline de engenharia de dados composto por:  
-- Ingestão de dados via GitHub  
-- Transformação (limpeza, padronização e enriquecimento)  
-- Modelagem em esquema estrela  
-- Armazenamento em data lake no Databricks 
-- Análise exploratória com SQL, Python e PySpark 
+. Ingestão de dados via GitHub  
+. Transformação (limpeza, padronização e enriquecimento)  
+. Modelagem em esquema estrela  
+. Armazenamento em data lake no Databricks 
+. Análise exploratória com SQL, Python e PySpark 
 
 🛠️ **Ferramentas**  
-- Linguagens: Python, SQL  
-- Bibliotecas: Pandas, NumPy, PySpark  
-- Ambientes: Databricks, GitHub, brModelo  
-- Documentação: Markdown e Catálogo Databricks  
+. Linguagens: Python, SQL  
+. Bibliotecas: Pandas, NumPy, PySpark  
+. Ambientes: Databricks, GitHub, brModelo  
+. Documentação: Markdown e Catálogo Databricks  
 
 📝 **Resultados Esperados**  
-- Identificação de padrões entre jogos e jogadores;  
-- Segmentação por características e popularidade;  
-- Correlações entre mecânicas, categorias e avaliações;  
-- Tendências de comportamento da comunidade;  
-- Perfis de jogadores baseados em preferências e avaliações;  
+. Identificação de padrões entre jogos e jogadores;  
+. Segmentação por características e popularidade;  
+. Correlações entre mecânicas, categorias e avaliações;  
+. Tendências de comportamento da comunidade;  
+. Perfis de jogadores baseados em preferências e avaliações;  
   
 ✅ **Autoavaliação**  
 O projeto consolidou conhecimentos de engenharia de dados e SQL, permitindo análises complexas e manipulação eficiente dos dados.  
