@@ -7,7 +7,7 @@ O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.c
 #### ☁️ **Plataforma**  
 O projeto utiliza Databricks (Free Edition) como ambiente Lakehouse (Data Warehouse e Data Lake), integrando armazenamento, processamento e análise com Python, SQL e PySpark.  
 
-####❓ **Perguntas de Análise**  
+#### ❓ **Perguntas de Análise**  
 O estudo busca responder questões, tais como:  
 - Top 10 jogos mais bem avaliados e sua relação com popularidade;  
 - Influência da complexidade nas avaliações;  
@@ -17,7 +17,7 @@ O estudo busca responder questões, tais como:
 
 📌 **Nota**: As respostas estão consolidadas, evidenciadas e registradas nos arquivos **Query-Tabuleiro.ipynb**, **Painel‑Jogos‑Tabuleiro 2025-12-05 01_56.pdf** e **Notebook‑MVP‑Eng‑Dados‑Tabuleiro.ipynb**, todos armazenados no GitHub.  
 
-####🔧 **Metodologia**  
+#### 🔧 **Metodologia**  
 Pipeline de engenharia de dados composto por:  
 - Ingestão de dados via GitHub  
 - Transformação (limpeza, padronização e enriquecimento)  
