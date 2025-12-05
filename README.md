@@ -28,13 +28,14 @@ Pipeline de engenharia de dados composto por:
 - Bibliotecas: Pandas, NumPy, PySpark  
 - Ambientes: Databricks, GitHub, brModelo  
 - Documentação: Markdown e Catálogo Databricks  
-  
+
 ✅ **Resultados Esperados**  
-- Identificação de padrões entre jogos e jogadores  
-- Segmentação por características e popularidade  
-- Correlações entre mecânicas, categorias e avaliações  
-- Tendências de comportamento da comunidade  
-- Perfis de jogadores baseados em preferências e avaliações  
+- Identificação de padrões entre jogos e jogadores;  
+- Segmentação por características e popularidade;  
+- Correlações entre mecânicas, categorias e avaliações;  
+- Tendências de comportamento da comunidade;  
+- Perfis de jogadores baseados em preferências e avaliações;  
   
 📝 **Autoavaliação**  
-O projeto consolidou conhecimentos de engenharia de dados e SQL, permitindo análises complexas e manipulação eficiente dos dados. O uso do Databricks e Spark representou um desafio inicial, superado com estudo e prática, ampliando a compreensão sobre ambientes distribuídos e processamento em larga escala.
+O projeto consolidou conhecimentos de engenharia de dados e SQL, permitindo análises complexas e manipulação eficiente dos dados.  
+O uso do Databricks e Spark representou um desafio inicial, superado com estudo e prática, ampliando a compreensão sobre ambientes distribuídos e processamento em larga escala.
