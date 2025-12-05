@@ -25,7 +25,7 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 Pipeline de engenharia de dados estruturado pelas seguintes etapas:  
 ▶ Ingestão de dados via GitHub;  
 ▶ Transformação (limpeza, padronização e enriquecimento);  
-▶ Modelagem dimensional em esquema estrela;  
+▶ Modelagem dimensional em esquema estrela, com tabelas fato e dimensões;  
 ▶ Armazenamento em data lake no Databricks; e  
 ▶ Análise exploratória com SQL, Python e PySpark.  
 
