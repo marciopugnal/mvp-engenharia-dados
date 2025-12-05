@@ -5,7 +5,7 @@ Este projeto aplica conceitos de engenharia de dados para transformar e explorar
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro, contendo informações detalhadas sobre jogos, avaliações, mecânicas, categorias e perfis de jogadores.  
 
 ### ☁️ **Plataforma**  
-O projeto utiliza Databricks (Free Edition) como ambiente Lakehouse (Data Warehouse e Data Lake), integrando armazenamento, processamento e análise com Python, SQL e PySpark.  
+O projeto utiliza o Databricks (Free Edition) como plataforma Lakehouse, integrando camadas de Data Lake e Data Warehouse em uma arquitetura unificada. Esse ambiente permite orquestrar pipelines de ingestão, processamento distribuído e consultas analíticas utilizando Python, SQL e PySpark, garantindo escalabilidade, paralelismo e governança dos dados.  
 
 ### ❓ **Questões analíticas a serem respondidas**  
 O estudo busca responder questões, tais como:  
