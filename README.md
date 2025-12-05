@@ -22,12 +22,12 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 ▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro** -->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb  
 
 ### 🧩 **Metodologia**  
-Pipeline de engenharia de dados composto por:  
-▶ Ingestão de dados via GitHub  
-▶ Transformação (limpeza, padronização e enriquecimento)  
-▶ Modelagem em esquema estrela  
-▶ Armazenamento em data lake no Databricks  
-▶ Análise exploratória com SQL, Python e PySpark  
+Pipeline de engenharia de dados estruturado pelas seguintes etapas:  
+▶ Ingestão de dados via GitHub;  
+▶ Transformação (limpeza, padronização e enriquecimento);  
+▶ Modelagem dimensional em esquema estrela;  
+▶ Armazenamento em data lake no Databricks; e  
+▶ Análise exploratória com SQL, Python e PySpark.  
 
 ### 🛠️ **Ferramentas**  
 ▶ Linguagens: Python, SQL  
