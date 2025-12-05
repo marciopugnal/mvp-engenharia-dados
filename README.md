@@ -15,14 +15,13 @@ O estudo busca responder questões, tais como:
 ▶ Correlação entre complexidade, tempo de jogo e satisfação; e  
 ▶ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
-📌 **Nota:**  
-_As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_  
+📌 **Nota:** _As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_  
 ▶ **Relatorio-Final** -->  
 ▶ **Query-Tabuleiro** -->   
 ▶ **Painel‑Jogos‑Tabuleiro** -->   
 ▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro** -->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb  
 
-### 🔧 **Metodologia**  
+### 🧩 **Metodologia**  
 Pipeline de engenharia de dados composto por:  
 ▶ Ingestão de dados via GitHub  
 ▶ Transformação (limpeza, padronização e enriquecimento)  
