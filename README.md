@@ -22,12 +22,12 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 ▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro** -->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb  
 
 ### 🧩 **Metodologia**  
-Pipeline de engenharia de dados estruturado pelas seguintes etapas:  
-▶ Ingestão de dados via GitHub;  
-▶ Transformação (limpeza, padronização e enriquecimento);  
-▶ Modelagem dimensional em esquema estrela, com tabelas fato e dimensões;  
-▶ Armazenamento em data lake no Databricks; e  
-▶ Análise exploratória com SQL, Python e PySpark.  
+A abordagem será organizada em etapas sequenciais, estruturadas em um pipeline de dados:  
+▶ Ingestão de dados: coleta de informações a partir de um dataset armazenado no GitHub;  
+▶ Transformação: limpeza, padronização e enriquecimento dos dados, assegurando consistência e qualidade;  
+▶ Modelagem: aplicação do modelo estrela, com a definição de tabelas de fatos e dimensões;  
+▶ Armazenamento: consolidação em um data lake estruturado no Databricks, preparado para consultas e análises; e  
+▶ Análise exploratória: utilização de SQL, Python e PySpark para consulta de banco de dados e geração de relatórios e gráficos para identificar padrões, tendências e fatores que influenciam o desempenho e a popularidade dos jogos.  
 
 ### 🛠️ **Ferramentas**  
 ▶ Linguagens: Python, SQL  
