@@ -16,9 +16,9 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 ▶ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
 📌 **Nota:** _As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_  
-▶ **Relatorio-Final** -->  
-▶ **Query-Tabuleiro** -->   
-▶ **Painel‑Jogos‑Tabuleiro** -->   
+▶ **Relatorio-Final** -->  xxxxxx
+▶ **Query-Tabuleiro-Questoes-Solucoes** --> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro-Questoes-Solucoes.ipynb
+▶ **Painel‑Jogos‑Tabuleiro** --> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Painel-Jogos-Tabuleiro-v.2025-12-07.pdf  
 ▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro** -->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb  
 
 ### 🧩 **Metodologia**  
@@ -45,4 +45,4 @@ A abordagem será organizada em etapas sequenciais, estruturadas em um pipeline 
 ### ✅ **Autoavaliação**  
 O desenvolvimento deste trabalho possibilitou aplicar, na prática, alguns dos conhecimentos teóricos das disciplinas, consolidando o entendimento dos conceitos de engenharia de dados dentro do contexto da ciência de dados. A experiência com bancos de dados e SQL foi essencial para modelar estruturas, executar consultas e gerar insights por meio de filtragens, agregações e cálculos analíticos.  
 No início, surgiram desafios relacionados ao uso do Databricks, à curva de aprendizado do PySpark e à necessidade de consultar documentações, ferramentas de IA, tutoriais e vídeos. Também houve dificuldades na integração com o GitHub e na compreensão dos recursos do Spark SQL, exigindo experimentação e estudo contínuo.  
-Para trabalhos futuros, recomenda-se o aprofundamento das análises, a incorporação de novos conjuntos de dados, a possibilidade de organização em camadas e a implementação de técnicas de machine learning, de modo a viabilizar investigações mais robustas e metodologicamente avançadas.
+Para trabalhos futuros, recomenda-se o aprofundamento das análises, a incorporação de novos conjuntos de dados, a possibilidade de organização em camadas e a implementação de técnicas de machine learning, de modo a viabilizar investigações mais automatizadas, robustas, e metodologicamente avançadas.
