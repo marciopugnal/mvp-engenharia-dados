@@ -9,22 +9,23 @@ O projeto utiliza o Databricks (Free Edition) como plataforma Lakehouse, integra
 
 ### ❓ **Questões analíticas a serem respondidas**  
 Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a responder questões como:  
-▶ Top 10 jogos mais bem avaliados e sua relação com popularidade;  
-▶ Influência da complexidade nas avaliações;  
-▶ Mecânicas e categorias mais associadas a alta popularidade;  
-▶ Correlação entre complexidade, tempo de jogo e satisfação; e  
-▶ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
+⏩ Top 10 jogos mais bem avaliados e sua relação com popularidade;  
+⏩ Influência da complexidade nas avaliações;  
+⏩ Mecânicas e categorias mais associadas a alta popularidade;  
+⏩ Correlação entre complexidade, tempo de jogo e satisfação; e  
+⏩ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
 📌 **Nota:** _As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_  
-▶ **Relatorio-Final**  
+⏩ **Relatorio-Final**  
 --->  xxxxxx  
-▶ **Query-Tabuleiro-Questoes-Solucoes**  
+
+⏩ **Query-Tabuleiro-Questoes-Solucoes**  
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro-Questoes-Solucoes.ipynb  
 
-▶ **Painel‑Jogos‑Tabuleiro**  
+⏩ **Painel‑Jogos‑Tabuleiro**  
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Painel-Jogos-Tabuleiro-v.2025-12-07.pdf  
 
-▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro**  
+⏩ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro**  
 --->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb  
 
 ### 🧩 **Metodologia**  
