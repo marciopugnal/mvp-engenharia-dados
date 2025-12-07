@@ -16,17 +16,17 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 ⏩ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
 📌 **Nota:** _As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_  
-⏩ **Relatorio-Final**  
---->  xxxxxx  
+▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro:**  
+--->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb
 
-⏩ **Query-Tabuleiro-Questoes-Solucoes**  
+▶ **Query-Tabuleiro-Questoes-Solucoes:**  
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro-Questoes-Solucoes.ipynb  
 
-⏩ **Painel‑Jogos‑Tabuleiro**  
----> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Painel-Jogos-Tabuleiro-v.2025-12-07.pdf  
+▶ **Relatorio-Final:**  
+---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Relatorio-Final.pdf  
 
-⏩ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro**  
---->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb  
+▶ **Painel‑Jogos‑Tabuleiro:**  
+---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Painel-Jogos-Tabuleiro.pdf  
 
 ### 🧩 **Metodologia**  
 A abordagem será organizada em etapas sequenciais, estruturadas em um pipeline de dados:  
