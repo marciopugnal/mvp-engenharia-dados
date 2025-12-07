@@ -17,7 +17,7 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 
 📌 **Nota:** _As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_  
 ▶ **Relatorio-Final**  
---->  xxxxxx
+--->  xxxxxx  
 ▶ **Query-Tabuleiro-Questoes-Solucoes**  
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro-Questoes-Solucoes.ipynb  
 
