@@ -22,8 +22,8 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 ▶ **Query-Tabuleiro-Questoes-Solucoes:**  
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro-Questoes-Solucoes.ipynb  
 
-▶ **Relatorio-Final:**  
----> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Relatorio-Final.pdf  
+▶ **MVP-Relatorio-Questoes-Final:**  
+---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/MVP-Relatorio-Questoes-Final.pdf  
 
 ▶ **Painel‑Jogos‑Tabuleiro:**  
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Painel-Jogos-Tabuleiro.pdf  
