@@ -17,16 +17,16 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 
 📌 **Nota:** _As respostas estão consolidadas, evidenciadas e registradas nos arquivos abaixo, ambos armazenados no GitHub:_  
 ▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro:**  
---->  https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro.ipynb
+---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Notebook-MVP-Eng-Dados-Tabuleiro.ipynb
 
 ▶ **Query-Tabuleiro-Questoes-Solucoes:**  
----> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro-Questoes-Solucoes.ipynb  
+---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro-Questoes-Solucoes.ipynb
 
 ▶ **MVP-Relatorio-Questoes-Final:**  
----> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/MVP-Relatorio-Questoes-Final.pdf  
+---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/MVP-Relatorio-Questoes-Final.pdf
 
 ▶ **Painel‑Jogos‑Tabuleiro:**  
----> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Painel-Jogos-Tabuleiro.pdf  
+---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Painel-Jogos-Tabuleiro.pdf
 
 ### 🧩 **Metodologia**  
 A abordagem será organizada em etapas sequenciais, estruturadas em um pipeline de dados:  
