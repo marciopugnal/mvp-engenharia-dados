@@ -22,7 +22,7 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 ▶ **Query-Tabuleiro-Questoes-Solucoes:**  
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro-Questoes-Solucoes.ipynb
 
-▶ **MVP-Relatorio-Questoes-Final: Amostra, Modelagem, Tabelas, Catálogo e Questões **  
+▶ **MVP-Relatorio-Questoes-Final:** Amostra, Modelagem, Tabelas, Catálogo e Questões   
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/MVP-Relatorio-Questoes-Final.pdf
 
 ▶ **Painel‑Jogos‑Tabuleiro:**  
