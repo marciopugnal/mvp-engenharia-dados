@@ -15,7 +15,8 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 ⏩ Correlação entre complexidade, tempo de jogo e satisfação; e  
 ⏩ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
-📌 **Nota:** _Para evitar que o README fique extenso, as análises, os códigos e as possíveis respostas foram consolidados, destacados e registrados nos arquivos abaixo, todos armazenados neste repositório:_  
+📌 **Nota:** _Com o objetivo de evitar a excessiva extensão deste README, as análises, os códigos e as possíveis respostas foram organizados, sistematizados e disponibilizados nos arquivos indicados abaixo, todos devidamente armazenados neste repositório:_  
+
 ▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro:**  
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Notebook-MVP-Eng-Dados-Tabuleiro.ipynb
 
