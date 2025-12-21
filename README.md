@@ -15,18 +15,18 @@ Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a re
 ⏩ Correlação entre complexidade, tempo de jogo e satisfação; e  
 ⏩ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
-📌 **Nota:** _Para evitar a extensão deste README, as análises, os códigos e as possíveis respostas foram organizados, sistematizados e disponibilizados nos arquivos indicados abaixo, todos devidamente armazenados neste repositório:_  
+📌 **Nota:** _Para evitar a extensão deste README, as análises, os códigos, tabelas, gráficos e as possíveis respostas foram organizados, sistematizados e disponibilizados nos arquivos indicados abaixo, todos devidamente armazenados neste repositório:_  
+
+▶ **MVP-Relatorio-Questoes-Final:** Amostra, Modelagem, Tabelas, Gráficos, Catálogo e Questões   
+---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/MVP-Relatorio-Questoes-Final.pdf
 
 ▶ **Notebook‑MVP‑Eng‑Dados‑Tabuleiro:**  
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Notebook-MVP-Eng-Dados-Tabuleiro.ipynb
 
-▶ **Query-Tabuleiro-Questoes-Solucoes:**  
+▶ **Query-Tabuleiro-Questoes-Solucoes:**    
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Query-Tabuleiro-Questoes-Solucoes.ipynb
 
-▶ **MVP-Relatorio-Questoes-Final:** Amostra, Modelagem, Tabelas, Catálogo e Questões   
----> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/MVP-Relatorio-Questoes-Final.pdf
-
-▶ **Painel‑Jogos‑Tabuleiro:**  
+▶ **Painel‑Jogos‑Tabuleiro:** Dashboard   
 ---> https://github.com/marciopugnal/mvp-engenharia-dados/blob/main/Painel-Jogos-Tabuleiro.pdf
 
 ### 🧩 **Metodologia**  
