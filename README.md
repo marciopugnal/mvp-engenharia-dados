@@ -9,11 +9,11 @@ O projeto utiliza o Databricks (Free Edition) como plataforma Lakehouse, integra
 
 ### ❓ **Questões analíticas a serem respondidas**  
 Com o intuito de atingir os objetivos definidos, este trabalho se dedicará a responder questões como:  
-⏩ Top 10 jogos mais bem avaliados e sua relação com popularidade;  
-⏩ Influência da complexidade nas avaliações;  
-⏩ Mecânicas e categorias mais associadas a alta popularidade;  
-⏩ Correlação entre complexidade, tempo de jogo e satisfação; e  
-⏩ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
+♟️ Top 10 jogos mais bem avaliados e sua relação com popularidade;  
+♟️ Influência da complexidade nas avaliações;  
+♟️ Mecânicas e categorias mais associadas a alta popularidade;  
+♟️ Correlação entre complexidade, tempo de jogo e satisfação; e  
+♟️ Perfil dos jogos por número de jogadores e faixa etária recomendada.  
 
 📌 **Nota:** _Para evitar a extensão deste README, as análises, os códigos, tabelas, gráficos e as possíveis respostas foram organizados, sistematizados e disponibilizados nos arquivos indicados abaixo, todos devidamente armazenados neste repositório:_  
 
